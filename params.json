@@ -1,6 +1,6 @@
 {
   "name": "Docs-example",
   "tagline": "",
-  "body": "# docs-example\r\nSee details in [Foo](foo/) and [Bar](bar/).\r\n",
+  "body": "# docs-example\r\nSee details in [Foo](FOO.md) and [Bar](BAR.md).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
